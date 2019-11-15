@@ -39,5 +39,5 @@ Home page-summary about RAELI LOGISTICS
 * Submitting when its done.
 
 <p align="center">
->><a href="https://2017050043.github.io/Logistics-And-Management-Project/">Home page</a><<<br>
+>><a href="https://2017050043.github.io/RAELI-FINAL/">Home page</a><<<br>
 <br>
