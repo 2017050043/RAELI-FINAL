@@ -1,0 +1,37 @@
+{
+  "name": "RAELI-FINAL",
+  "version": "1.0.0",
+  "description": "This is business website with the agenda to draw more people to the company at the same time attending the needs of the customers.The reason why i concluded on this website is because trade has been rapidly increasing for the past centuries and even more now so goods are being moved from one place to the other so to ensure safety and goods to reach their owners in time i decided to do and own a logistics company.They say for every great leader there is a greater logistician.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2017050043/RAELI-FINAL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2017050043/RAELI-FINAL/issues"
+  },
+  "homepage": "https://github.com/2017050043/RAELI-FINAL#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.12",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
