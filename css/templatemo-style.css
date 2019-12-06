@@ -1,6 +1,5 @@
 /*
 
-Parallo Template
 
 COLOR CODE
 Dark Brown: #333333
@@ -33,6 +32,10 @@ body {
 a,
 button {
   transition: all 0.3s ease;
+}
+
+.text-dark {
+    color: white!important;
 }
 
 a:hover {
