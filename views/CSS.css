@@ -3,7 +3,7 @@ body {
     box-sizing: border-box;
 }
 
-html {
+body {
     background: url"img/call-to-action.jpg";
     background-size: cover;
     background-position: center;
