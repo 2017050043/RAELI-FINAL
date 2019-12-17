@@ -3,6 +3,12 @@ body {
     box-sizing: border-box;
 }
 
+html {
+    background: url"img/call-to-action.jpg";
+    background-size: cover;
+    background-position: center;
+}
+
 .d-flex input {
     margin: .9em 0em;
 }
